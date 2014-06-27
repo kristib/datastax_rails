@@ -1,6 +1,6 @@
 = datastax_rails
 ==============
-
+Kristi's fork
 A Ruby-on-Rails interface to Datastax Enterprise (specifically DSE Search nodes).  Replaces the majority of ActiveRecord functionality.
 
 This gem is based heavily on the excellent CassandraObject gem (https://github.com/data-axle/cassandra_object) as well as some work I initially 
